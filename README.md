@@ -20,7 +20,3 @@ PR:<br>
 
 <b>Get Your Smart Contract Security Audit Today!</b>
 
-Contact:<br>
-hello@chainsulting.de<br>
-http://t.me/chainsulting<br>
-https://chainsulting.de<br>
